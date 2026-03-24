@@ -1,5 +1,14 @@
-## Hi there 👋
+<h2 align="center"> Hi 👋 , I'm Aldrich Benny Verdin Ramos <br/></h2> 
+<h3 align="center">Also known as "Ipty" to other people. <br> <br>
+<a href="https://github.com/aldrichverdin-code" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aldrichverdin-code?label=Github%20followers&style=for-the-badge">
+  </a> 
+    <a href="https://github.com/aldrichverdin-code" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=aldrichverdin-code&label=Views&color=brightgreen&style=for-the-badge" alt="views on github" />
+  </a>
+  </h3>  
 
+Let me introduce myself  :boy: 
 <!--
 **aldrichverdin-code/aldrichverdin-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
